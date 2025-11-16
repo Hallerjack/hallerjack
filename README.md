@@ -26,21 +26,22 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 ### 🎨 Front-End
 
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="20" /> HTML 
-<img src="https://cdn.simpleicons.org/css/1572B6" width="20" /> CSS 
-<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="20" /> Bootstrap 
+- <img src="https://cdn.simpleicons.org/html5/E34F26" width="20" /> **HTML**
+- <img src="https://cdn.simpleicons.org/css/1572B6" width="20" /> **CSS**
+- <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="20" /> **Bootstrap**
 
 ### ⚙️ Back-End
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="20" /> Python
+- <img src="https://cdn.simpleicons.org/python/3776AB" width="20" /> **Python**
 
 ### 🛠️ Herramientas
 
-<img src="https://cdn.simpleicons.org/git/21759B" width="20" /> Git 
-<img src="https://cdn.simpleicons.org/github/21759B" width="20" /> GitHub 
-<img src="https://cdn.simpleicons.org/wordpress/21759B" width="20" /> Wordpress 
-<img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="20" /> Cpanel 
-<img src="https://cdn.simpleicons.org/elementor/92003B" width="20" /> Elementor
+- <img src="https://cdn.simpleicons.org/git/F05032" width="20" /> **Git**
+- <img src="https://cdn.simpleicons.org/github/181717" width="20" /> **GitHub**
+- <img src="https://cdn.simpleicons.org/wordpress/21759B" width="20" /> **WordPress**
+- <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="20" /> **cPanel**
+- <img src="https://cdn.simpleicons.org/elementor/92003B" width="20" /> **Elementor**
+
 
 ---
 
