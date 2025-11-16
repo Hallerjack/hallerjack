@@ -26,17 +26,19 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 ### 🎨 Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" />  
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="40" />  
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" />  
 
 ### ⚙️ Back-End
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
 
----
+### 🛠️ CMS & Herramientas
 
-## 🛠️ Herramientas
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40" />  
+<img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="40" />  
+<img src="https://cdn.simpleicons.org/elementor/92003B" width="40" /> 
 
 ---
 
