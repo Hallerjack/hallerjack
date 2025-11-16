@@ -48,8 +48,9 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 1. [The Website.cl | Diseño web para empresas](https://www.thewebsite.cl/)
 2. [Invitaciones The Website | Invitaciones online para matrimonios](https://invitaciones.thewebsite.cl)
-3. [Capilness Hair Restoration | Clínica Capilar](https://www.capilness.cl)
-4. [Lex Guide - Tu Guía Legal | Abogados](https://tuguialegal.cl/)
+3. [Nibiru Artistic Company | Doblajes y Locuciones](https://www.nibiruart.cl)
+4. [Florence | Banquetería](https://www.banqueteriaflorence.cl/)
+5. [Lex Guide - Tu Guía Legal | Abogados](https://tuguialegal.cl/)
 
 ---
 
