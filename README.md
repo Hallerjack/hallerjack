@@ -42,10 +42,14 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 - <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="20" /> **cPanel**
 - <img src="https://cdn.simpleicons.org/elementor/92003B" width="20" /> **Elementor**
 
-
 ---
 
 ## ⚡ Proyectos Destacados
+
+1. [The Website.cl | Diseño web para empresas](https://www.thewebsite.cl/)
+2. [Invitaciones The Website | Invitaciones online para matrimonios](https://invitaciones.thewebsite.cl)
+3. [Capilness Hair Restoration | Clínica Capilar](https://www.capilness.cl)
+4. [Lex Guide - Tu Guía Legal | Abogados](https://tuguialegal.cl/)
 
 ---
 
@@ -56,4 +60,8 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 ---
 
 ## 👨🏻‍💻 Actualmente
+
+- Trabajo en TheWebsite.cl
+- Estudio Desarrollo Front-End.
+- Siempre dispuesto a colaborar en nuevos desafíos.
 
