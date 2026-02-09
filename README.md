@@ -28,6 +28,7 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 - <img src="https://cdn.simpleicons.org/html5/E34F26" width="20" /> **HTML**
 - <img src="https://cdn.simpleicons.org/css/1572B6" width="20" /> **CSS**
+- <img src="https://cdn.simpleicons.org/javascript/%20icono" width="20" /> **JavaScript**
 - <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="20" /> **Bootstrap**
 
 ### ⚙️ Back-End
@@ -46,11 +47,13 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 ## ⚡ Proyectos Destacados
 
-1. [The Website.cl | Diseño web para empresas](https://www.thewebsite.cl/)
-2. [Invitaciones The Website | Invitaciones online para matrimonios](https://invitaciones.thewebsite.cl)
-3. [Nibiru Artistic Company | Doblajes y Locuciones](https://www.nibiruart.cl)
-4. [Florence | Banquetería](https://www.banqueteriaflorence.cl/)
-5. [Lex Guide - Tu Guía Legal | Abogados](https://tuguialegal.cl/)
+1. [Sound Advisors | Expertos en audio Hi-Fi](https://www.soundadvisors.cl/)
+2. [Capilness Hair Restoration](https://www.capilness.cl/)
+3. [The Website.cl | Diseño web para empresas](https://www.thewebsite.cl/)
+4. [Invitaciones The Website | Invitaciones online para matrimonios](https://invitaciones.thewebsite.cl)
+5. [Nibiru Artistic Company | Doblajes y Locuciones](https://www.nibiruart.cl)
+6. [Florence | Banquetería](https://www.banqueteriaflorence.cl/)
+7. [Lex Guide - Tu Guía Legal | Abogados](https://tuguialegal.cl/)
 
 ---
 
@@ -62,7 +65,7 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 ## 👨🏻‍💻 Actualmente
 
-- Trabajo en TheWebsite.cl
+- Trabajo en Promatic Media y en TheWebsite.cl
 - Estudio Desarrollo Front-End.
 - Siempre dispuesto a colaborar en nuevos desafíos.
 
