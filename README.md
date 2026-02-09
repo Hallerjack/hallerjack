@@ -59,7 +59,7 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallerjack&layout=compact&langs_count=10&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallerjack&layout=compact&langs_count=10&theme=github_dark&cache_seconds=1800)
 
 ---
 
