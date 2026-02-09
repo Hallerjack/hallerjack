@@ -6,7 +6,7 @@
 
 Soy un desarrollador en formación con muchas ganas de aprender día a día. Actualmente estoy estudiando Desarrollo Front-End, después de haber trabajado más de 10 años diseñando sitios web. Esta combinación entre diseño y programación me ha permitido desarrollar una mirada creativa, detallista y muy enfocada en la experiencia de las personas.
 
-Tengo conocimientos en HTML, CSS y Python, además del manejo de Bootstrap como framework principal. En el área web, trabajo con herramientas como cPanel, WordPress y Elementor. Como complemento a mi perfil, también tengo experiencia en diseño UX/UI utilizando Figma y la suite de Adobe (Photoshop, Illustrator y Premiere Pro), lo que me permite crear interfaces y contenidos con intención, claridad y propósito.
+Tengo conocimientos en HTML, CSS, JavaScript y Python, además del manejo de Bootstrap como framework principal. En el área web, trabajo con herramientas como cPanel, WordPress y Elementor. Como complemento a mi perfil, también tengo experiencia en diseño UX/UI utilizando Figma y la suite de Adobe (Photoshop, Illustrator y Premiere Pro), lo que me permite crear interfaces y contenidos con intención, claridad y propósito.
 
 Actualmente lidero mi propia empresa de diseño web, The Website, donde desarrollo sitios web y también un servicio especializado de invitaciones digitales interactivas para matrimonios y eventos. Este proyecto me ha permitido trabajar con clientes reales, entender mejor sus necesidades y ofrecer soluciones digitales que combinan diseño, tecnología y una atención cercana.
 
