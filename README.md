@@ -6,7 +6,7 @@
 
 Soy un desarrollador en formación con muchas ganas de aprender día a día. Actualmente estoy estudiando Desarrollo Front-End, después de haber trabajado más de 10 años diseñando sitios web. Esta combinación entre diseño y programación me ha permitido desarrollar una mirada creativa, detallista y muy enfocada en la experiencia de las personas.
 
-Tengo conocimientos en HTML, CSS, JavaScript y Python, además del manejo de Bootstrap como framework principal. En el área web, trabajo con herramientas como cPanel, WordPress y Elementor. Como complemento a mi perfil, también tengo experiencia en diseño UX/UI utilizando Figma y la suite de Adobe (Photoshop, Illustrator y Premiere Pro), lo que me permite crear interfaces y contenidos con intención, claridad y propósito.
+Tengo conocimientos en HTML, CSS, JavaScript, React y Python, además del manejo de Bootstrap como framework principal. En el área web, trabajo con herramientas como cPanel, WordPress y Elementor. Como complemento a mi perfil, también tengo experiencia en diseño UX/UI utilizando Figma y la suite de Adobe (Photoshop, Illustrator y Premiere Pro), lo que me permite crear interfaces y contenidos con intención, claridad y propósito.
 
 Actualmente lidero mi propia empresa de diseño web, The Website, donde desarrollo sitios web y también un servicio especializado de invitaciones digitales interactivas para matrimonios y eventos. Este proyecto me ha permitido trabajar con clientes reales, entender mejor sus necesidades y ofrecer soluciones digitales que combinan diseño, tecnología y una atención cercana.
 
@@ -26,22 +26,25 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 
 ### 🎨 Front-End
 
-- <img src="https://cdn.simpleicons.org/html5/E34F26" width="20" /> **HTML**
-- <img src="https://cdn.simpleicons.org/css/1572B6" width="20" /> **CSS**
-- <img src="https://cdn.simpleicons.org/javascript/%20icono" width="20" /> **JavaScript**
-- <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="20" /> **Bootstrap**
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 ### ⚙️ Back-End
 
-- <img src="https://cdn.simpleicons.org/python/3776AB" width="20" /> **Python**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 ### 🛠️ Herramientas
 
-- <img src="https://cdn.simpleicons.org/git/F05032" width="20" /> **Git**
-- <img src="https://cdn.simpleicons.org/github/181717" width="20" /> **GitHub**
-- <img src="https://cdn.simpleicons.org/wordpress/21759B" width="20" /> **WordPress**
-- <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="20" /> **cPanel**
-- <img src="https://cdn.simpleicons.org/elementor/92003B" width="20" /> **Elementor**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)](https://cpanel.net/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://elementor.com/)
 
 ---
 
