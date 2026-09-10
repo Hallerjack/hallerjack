@@ -69,6 +69,4 @@ Mi objetivo es convertirme en un profesional íntegro del Desarrollo Front-End. 
 ## 👨🏻‍💻 Actualmente
 
 - Trabajo en Promatic Media y en TheWebsite.cl
-- Estudio Desarrollo Front-End.
-- Siempre dispuesto a colaborar en nuevos desafíos.
 
